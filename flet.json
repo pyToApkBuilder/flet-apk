@@ -1,0 +1,7 @@
+{
+  "app_name": "Stock Fetcher",
+  "app_description": "Fetch stock data using yfinance",
+  "app_version": "1.0.0",
+  "app_id": "com.yourname.stockfetcher",
+  "assets_dir": "assets"
+}
